@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "name": "Shakhzodbek Muzaffar ugli Yunusov",
+      "phone": "+998934825898",
+      "email": "yunusovw@gmail.com",
+      "password": "32436frfg",
+      "id": "LyLHxv5Cx8-mpSATVwzMK"
+    },
+    {
+      "name": "Ellien Allen",
+      "phone": "652134567",
+      "email": "eastloe@gmail.com",
+      "password": "233455434",
+      "id": "UqG5NqaY-DPqcM73SjSRx"
+    }
+  ],
+  "loginusers": [
+    {
+      "email": "eastloe@gmail.com",
+      "password": "233455434",
+      "id": 1
+    },
+    {
+      "email": "eastloe@gmail.com",
+      "password": "233455434",
+      "id": 2
+    },
+    {
+      "email": "eastloe@gmail.com",
+      "password": "233455434",
+      "id": 3
+    },
+    {
+      "email": "eastloe@gmail.com",
+      "password": "233455434",
+      "id": 4
+    },
+    {
+      "email": "eastloe@gmail.com",
+      "password": "233455434",
+      "id": 5
+    },
+    {
+      "email": "eastloe@gmail.com",
+      "password": "233455434",
+      "id": 6
+    },
+    {
+      "email": "eastloe@gmail.com",
+      "password": "233455434",
+      "id": 7
+    }
+  ]
+}
